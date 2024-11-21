@@ -14,4 +14,7 @@
 ### ✔️ Segurança Avançada
 ### ✔️ Implementação de algoritmos de criptografia para proteger os dados armazenados.
 ## Contribuições
-## Este trabalho reflete nosso compromisso com a criação de sistemas robustos e seguros, sendo uma aplicação prática dos conceitos aprendidos durante o curso.
+### Este trabalho reflete nosso compromisso com a criação de sistemas robustos e seguros, sendo uma aplicação prática dos conceitos aprendidos durante o curso.
+
+# **LINK YOUTUBE**
+## ✔️ https://www.youtube.com/watch?v=Pdvznwg6Br4
